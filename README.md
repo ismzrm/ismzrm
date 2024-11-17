@@ -5,3 +5,8 @@ I have a strong passion for software development, and I am continuously improvin
 I am proficient in several programming languages, including C, C#, Delphi, SQL, HTML, CSS, and JavaScript, and I hold various certifications to further strengthen these skills. 
 My interest in technology motivates me to learn new things every day and push myself further in the world of software development. 
 My goal is to contribute to new projects and create innovative solutions as I continue to advance in my professional career.
+
+Contact
+instagram:https://www.instagram.com/zorman_ismail/
+gmail:zormanismail46@gmail.com
+
